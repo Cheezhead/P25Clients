@@ -320,3 +320,6 @@
 
 # 53099 New Zealand bridge to D-Star, DMR and NXDN
 53099	203.86.206.49		41000
+
+# 31555 SE Wisconsin Regional & bridge to WiDMR 
+31555  mmdvm-p25.v24bridge.net. 41000
